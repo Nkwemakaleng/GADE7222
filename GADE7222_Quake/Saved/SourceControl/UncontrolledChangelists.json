@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ASUS/Documents/GitHub/GADE7222/GADE7222_Quake/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ASUS/Documents/GitHub/GADE7222/GADE7222_Quake/Content/Code/Map_General.umap",
+				"C:/Users/ASUS/Documents/GitHub/GADE7222/GADE7222_Quake/Content/Stuff/Map_General.umap",
+				"C:/Users/ASUS/Documents/GitHub/GADE7222/GADE7222_Quake/Content/Stuff/Code/GM_Test.uasset"
+			]
+		}
+	]
+}
