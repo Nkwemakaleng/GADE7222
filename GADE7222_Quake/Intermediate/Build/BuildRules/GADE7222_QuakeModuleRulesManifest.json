@@ -1,0 +1,15 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ASUS\\Documents\\GitHub\\GADE7222\\GADE7222_Quake\\Source\\GADE7222_Quake\\GADE7222_Quake.Build.cs",
+		"C:\\Users\\ASUS\\Documents\\GitHub\\GADE7222\\GADE7222_Quake\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"C:\\Users\\ASUS\\Documents\\GitHub\\GADE7222\\GADE7222_Quake\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"C:\\Users\\ASUS\\Documents\\GitHub\\GADE7222\\GADE7222_Quake\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"C:\\Users\\ASUS\\Documents\\GitHub\\GADE7222\\GADE7222_Quake\\Plugins\\Developer\\RiderLink\\Source\\RiderLC\\RiderLC.Build.cs",
+		"C:\\Users\\ASUS\\Documents\\GitHub\\GADE7222\\GADE7222_Quake\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"C:\\Users\\ASUS\\Documents\\GitHub\\GADE7222\\GADE7222_Quake\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"C:\\Users\\ASUS\\Documents\\GitHub\\GADE7222\\GADE7222_Quake\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfo\\RiderShaderInfo.Build.cs",
+		"C:\\Users\\ASUS\\Documents\\GitHub\\GADE7222\\GADE7222_Quake\\Source\\GADE7222_Quake.Target.cs",
+		"C:\\Users\\ASUS\\Documents\\GitHub\\GADE7222\\GADE7222_Quake\\Source\\GADE7222_QuakeEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}
