@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\asus\\documents\\github\\gade7222\\gade7222_quakef\\source\\gade7222_quakef\\gun.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\asus\\documents\\github\\gade7222\\gade7222_quakef\\intermediate\\build\\win64\\x64\\gade7222_quakefeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\asus\\documents\\github\\gade7222\\gade7222_quakef\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gade7222_quakef\\definitions.gade7222_quakef.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
