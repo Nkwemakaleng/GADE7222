@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GADE7222POE.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ASUS\Documents\GitHub\GADE7222\GADE7222POE\Intermediate\Build\Win64\x64\GADE7222POEEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\ASUS\Documents\GitHub\GADE7222\GADE7222POE\Intermediate\Build\Win64\x64\UnrealEditor\Development\GADE7222POE\GADE7222POE.cpp.obj"
+"C:\Users\ASUS\Documents\GitHub\GADE7222\GADE7222POE\Intermediate\Build\Win64\x64\UnrealEditor\Development\GADE7222POE\MyPlayerContoller.cpp.obj"
+"C:\Users\ASUS\Documents\GitHub\GADE7222\GADE7222POE\Intermediate\Build\Win64\x64\UnrealEditor\Development\GADE7222POE\Default.rc2.res"
+/OUT:"C:\Users\ASUS\Documents\GitHub\GADE7222\GADE7222POE\Intermediate\Build\Win64\x64\UnrealEditor\Development\GADE7222POE\UnrealEditor-GADE7222POE.lib"

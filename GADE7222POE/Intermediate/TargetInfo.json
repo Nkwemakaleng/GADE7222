@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GADE7222POE",
+			"Path": "..\\Source\\GADE7222POE.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GADE7222POEEditor",
+			"Path": "..\\Source\\GADE7222POEEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
